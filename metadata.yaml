@@ -1,0 +1,32 @@
+_repo: Uncle-Remus-His-Songs-and-His-Sayings_2306
+creator:
+  author:
+    agent_name: Harris, Joel Chandler
+    birthdate: 1848
+    deathdate: 1908
+    gutenberg_agent_id: '868'
+    url: http://www.gutenberg.org/2009/agents/868
+    wikipedia: http://en.wikipedia.org/wiki/Joel_Chandler_Harris
+description: ''
+gutenberg_bookshelf:
+- Folklore
+- Children's Literature
+gutenberg_issued: '2000-08-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2306'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'African American men -- Literary collections'
+- !lcsh 'Animals -- Folklore -- Literary collections'
+- !lcsh 'Remus, Uncle (Fictitious character) -- Literary collections'
+- !lcsh 'Plantation life -- Literary collections'
+- !lcc 'PS'
+- !lcsh 'Georgia -- Literary collections'
+- !lcsh 'African Americans -- Songs and music'
+- !lcsh 'African Americans -- Folklore -- Literary collections'
+title: Uncle Remus, His Songs and His Sayings
+url: http://www.gutenberg.org/ebooks/2306
