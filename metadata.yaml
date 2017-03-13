@@ -1,5 +1,8 @@
 _repo: Uncle-Remus-His-Songs-and-His-Sayings_2306
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Harris, Joel Chandler
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/868
     wikipedia: http://en.wikipedia.org/wiki/Joel_Chandler_Harris
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/2306#Uncle-Remus-His-Songs-and-His-Sayings
 gutenberg_bookshelf:
 - Folklore
 - Children's Literature
