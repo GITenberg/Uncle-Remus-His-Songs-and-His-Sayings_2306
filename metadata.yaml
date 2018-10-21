@@ -1,5 +1,5 @@
 _repo: Uncle-Remus-His-Songs-and-His-Sayings_2306
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -34,5 +34,6 @@ subjects:
 - !lcsh 'Georgia -- Literary collections'
 - !lcsh 'African Americans -- Songs and music'
 - !lcsh 'African Americans -- Folklore -- Literary collections'
+- GITenberg
 title: Uncle Remus, His Songs and His Sayings
 url: http://www.gutenberg.org/ebooks/2306
